@@ -1,0 +1,14 @@
+PODS:
+  - AvoidKeyboardController (0.1.0)
+
+DEPENDENCIES:
+  - AvoidKeyboardController (from `../`)
+
+EXTERNAL SOURCES:
+  AvoidKeyboardController:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AvoidKeyboardController: b91a117a523063360ee58fe6889a55e05f2341ee
+
+COCOAPODS: 0.33.1
